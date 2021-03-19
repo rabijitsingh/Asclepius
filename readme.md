@@ -6,7 +6,7 @@
 <br>
 
 ### Model Architecture-
-A hospital management software for various parties associated with a hospital yo interact with each other and store information. A voice assistant assists doctors to store information without the need of physically writing medical records. Server side has been built using MS SQL server and frontend has been built using C#.
+A hospital management software for various parties associated with a hospital to interact with each other and store information. A voice assistant assists doctors to store information without the need of physically writing medical records. Server side has been built using MS SQL server and frontend has been built using C#.
 <div align="center" class="row">
   <img src="https://i.imgur.com/8vmUpwt.jpg" width="600"/>
 </div>
